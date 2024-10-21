@@ -64,7 +64,7 @@
     "main.menus.app.file.preferences": "偏好設定…",
     "main.menus.app.file.quit": "結束 {appName}",
     "main.menus.app.file.settings": "設定…",
-    "main.menus.app.file.signInToAnotherServer": "登入至另一個伺服器",
+    "main.menus.app.file.signInToAnotherServer": "登入另一台伺服器",
     "main.menus.app.file.unhide": "顯示全部",
     "main.menus.app.help": "說明(&P)",
     "main.menus.app.help.RunDiagnostics": "執行診斷",
